@@ -9,9 +9,9 @@ HIBERNATE, MYSQL Token Store, JDBCTemplate, and Https. It will take lots of effo
 
 them together, and make them work.
 
-Witht this server template, you can foucs on develeoping REST API for your needs without caring about 
+Witht this server template, you can foucs on develeoping REST API to meet your needs without being distracted 
 
-other technologies. You can also improve this project or fork it as needed. 
+by other technologies. You can also improve this project or fork it as needed. 
 
 
 ## Project
