@@ -10,7 +10,7 @@ This project includes the following features.
 	REST
 	JPA
 	MYSQL + HIBERNATE 
-	MYSQK Token Store
+	MYSQL Token Store
 	JDBCTemplate
 	Https
 
