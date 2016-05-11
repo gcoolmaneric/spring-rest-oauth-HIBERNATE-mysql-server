@@ -87,7 +87,7 @@ curl -k -H "Authorization: Bearer b61db2dd-0af4-4e3c-b2b9-7c307a9d7c69" -X POST 
 // Edit
 vim /src/main/resources/application.properties
 
-// Configure initial and maximum connections 
+// Configure initial and maximal connections 
 spring.datasource.initialSize= 15
 spring.datasource.maxActive= 30
 ```
