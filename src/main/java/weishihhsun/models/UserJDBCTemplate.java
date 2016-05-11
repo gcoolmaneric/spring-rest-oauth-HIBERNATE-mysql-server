@@ -38,7 +38,7 @@ public class UserJDBCTemplate implements UserDao {
 
     public User getUserById(String id) {
         try{
-            return jdbc.queryForObject("SELECT * FROM user WHERE user_id=? and status > 0 LIMIT 1", userMapper, id);
+            return jdbc.queryForObject("SELECT * FROM user WHERE user_id=? LIMIT 1", userMapper, id);
         } catch (EmptyResultDataAccessException e) {
             return null;
         }
