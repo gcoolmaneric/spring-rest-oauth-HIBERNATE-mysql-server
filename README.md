@@ -1,4 +1,17 @@
 This project is a very simple REST and OAuth server template with high performance.
+Since the authenticated token is stored in MYSQL, its easy to scale up your server to meet
+high user traffic. 
+
+## Why has this porject been created ? 
+I found its difficult to find some samples to develop REST Server with features like OAuth, MYSQL, 
+
+HIBERNATE, MYSQL Token Store, JDBCTemplate, and Https. It will take lots of efforts to try each of them, combine 
+
+them together, and make them work.
+
+Witht this server template, you can foucs on develeoping REST API for your needs without caring about 
+
+other technologies. You can also improve this project or fork it as needed. 
 
 
 ## Project
