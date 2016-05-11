@@ -11,6 +11,7 @@ This project includes the following features.
 	JPA
 	MYSQL + HIBERNATE 
 	MYSQK Token Store
+	JDBCTemplate
 	Https
 
 ## Get Started 
