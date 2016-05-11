@@ -10,11 +10,13 @@ This project includes the following features.
 	REST
 	JPA
 	MYSQL + HIBERNATE 
-	JDBC Token
+	MYSQK Token Store
 	Https
 
-## Get Started ?
+## Get Started 
+
 Import userdb.sql into your database.
+
 ```
 import database/userdb.sql into MYSQL database
 ```
