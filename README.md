@@ -91,3 +91,13 @@ vim /src/main/resources/application.properties
 spring.datasource.initialSize= 15
 spring.datasource.maxActive= 30
 ```
+
+## How to set up MYSQL Master/Salve replication ?
+
+```
+// Edit
+vim /src/main/resources/application.properties
+
+## Master and Slave
+spring.datasource.url = jdbc:mysql:replication://localhost1:3306,localhost2:3306/userdb
+```
