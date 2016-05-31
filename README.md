@@ -1,4 +1,4 @@
-This project is a very simple REST and OAuth server template with high performance.
+This project is a very simple REST and OAuth server template with high performance in Spring framework.
 Since the authenticated token is stored in MYSQL, its easy to scale up your server to meet
 high user traffic. 
 
