@@ -92,7 +92,7 @@ spring.datasource.initialSize= 15
 spring.datasource.maxActive= 30
 ```
 
-## How to set up MYSQL Master/Slave replication ?
+## How to set up Master/Slave replication in MYSQL ?
 
 ```
 // Edit
