@@ -3,7 +3,7 @@ Since the authenticated token is stored in MYSQL, its easy to scale up your serv
 high user traffic. 
 
 ## Why has this project been created ? 
-I found its difficult to find some samples to develop a secure REST API Server with features like OAuth, MYSQL, HIBERNATE, MYSQL Token Store, JDBCTemplate, and Https. It will take lots of efforts to try each of them, combine them together, and make them work.
+I found it difficult to find some samples to develop a secure REST API Server with features like OAuth, MYSQL, HIBERNATE, MYSQL Token Store, JDBCTemplate, and Https. It will take lots of efforts to try each of them, combine them together, and make them work.
 
 With this server template, you can focus on developing REST API to meet your needs without being distracted by other technologies. You can also improve this project or fork it as needed.
 
